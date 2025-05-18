@@ -1,0 +1,9 @@
+.vscode/
+.venv/
+.env
+__pycache__/
+*.pdf
+.env
+*.csv
+.DS_Store
+*.png
